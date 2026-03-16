@@ -116,9 +116,15 @@
 </p>
 
 ---
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rishabh1230&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+## 📊 GitHub Contribution Graph
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rishabh1230&theme=github-compact)
+
+---
+
+## 📅 Contribution Calendar
+
+![GitHub Contribution Grid](https://ghchart.rshah.org/rishabh1230)
 
 ### 📊 GitHub Stats
 
