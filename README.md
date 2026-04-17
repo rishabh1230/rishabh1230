@@ -9,7 +9,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=BF91F3&width=850&height=40&lines=Hi+%F0%9F%91%8B+I'm+Rishabh+Pandey;Full+Stack+Developer;MERN+%7C+Spring+Boot;Backend+%26+Distributed+Systems;Open+Source+Contributor+(Oppia))](https://github.com/rishabh1230)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=BF91F3&width=850&height=40&lines=Hi+%F0%9F%91%8B+I'm+Rishabh+Pandey;Full+Stack+Developer;NestJS+%7C+Spring+Boot;Backend+%26+Distributed+Systems;Open+Source+Contributor+(Oppia))](https://github.com/rishabh1230)
 
 ---
 ##                                                            Github Stats
