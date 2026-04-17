@@ -11,11 +11,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=BF91F3&width=850&height=40&lines=Hi+%F0%9F%91%8B+I'm+Rishabh+Pandey;Full+Stack+Developer;MERN+%7C+Spring+Boot;Backend+%26+Distributed+Systems;Open+Source+Contributor+(Oppia))](https://github.com/rishabh1230)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-
 ---
-
-## 📊 Github Stats
+##                                                            Github Stats
 
 <div align="center">
 
@@ -42,7 +39,7 @@
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -56,7 +53,7 @@
 
 ---
 
-## ⚡ What I Do
+##  What I Do
 
 ```txt
 → Build scalable backend systems
